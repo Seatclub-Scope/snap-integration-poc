@@ -14,3 +14,9 @@ xcuserdata/
 Pods/
 .DS_Store
 
+# Generated build artifacts
+/build/
+
+# Local Xcode environment overrides
+.xcode.env.local
+
